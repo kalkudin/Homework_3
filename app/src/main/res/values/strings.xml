@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Homework 3</string>
+    <string name="title">Profile Info</string>
+    <string name="user_email">sample: example@something.com</string>
+    <string name="username">username</string>
+    <string name="username_nigger">username nigger</string>
+    <string name="first_name">first name</string>
+    <string name="last_name">last name</string>
+    <string name="age">age</string>
+    <string name="save_button">save</string>
+    <string name="clear_button">clear</string>
+    <string name="again_button">again</string>
+</resources>
